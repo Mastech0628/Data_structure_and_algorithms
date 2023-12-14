@@ -3,3 +3,6 @@ def greet_user(name):
 
 if __name__ == "__main__":
     greet_user("Bob")
+    
+    if __name__ == "__main__":
+    greet_user("john")
